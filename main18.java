@@ -40,7 +40,7 @@ public class main18 {
                 tampilData.showTransaksis(transaksis);   
                     break;
                 case 3:
-                 
+                 RekeningSorter.sortByName(Rekening18);
                     break;
                 case 4:
                   
